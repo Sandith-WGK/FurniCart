@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">FurniCart</string>
+    <string name="onboard1topic">Discover Furniture That Feels Like Home</string>
+    <string name="onboard1text">Step into a world where every piece of furniture is designed to bring comfort, elegance, and a touch of your personality into your space.</string>
+    <string name="btnskip">Skip</string>
+    <string name="btnnext">Next</string>
+    <string name="btnback">Back</string>
+    <string name="onboarding1_title">DISCOVER FURNITURE THAT FEELS LIKE HOME</string>
+    <string name="onboarding1_description">Step into a world where every piece of furniture is designed to bring comfort, elegance, and a touch of your personality into your space.</string>
+    <string name="skip_button">Skip</string>
+    <string name="next_button">Next</string>
+    <string name="onboarding2_title">Shop with Ease, Style with Confidence </string>
+    <string name="onboarding2_description">Explore a curated collection of furniture designed to blend functionality with elegance, making every space uniquely yours. </string>
+    <string name="onboarding3_title">Transform Your Space Effortlessly</string>
+    <string name="onboarding3_description">Discover premium furniture that complements your lifestyle, bringing warmth, elegance, and functionality to every corner of your home.  </string>
+    <string name="btngetstarted">Get Started</string>
+    <string name="loginbtn">Log in</string>
+    <string name="signupBtn">Sign Up</string>
+    <string name="wlcome">Welcome ! \nPlease Login</string>
+    <string name="hUsername">Enter your user name</string>
+    <string name="hPassword">Enter your password</string>
+    <string name="lUsername">User Name</string>
+    <string name="lPassword">Password</string>
+    <string name="forpwd">Fogot password ? change password</string>
+    <string name="lName">Name</string>
+    <string name="hName">Enter your name</string>
+    <string name="lemail">Email</string>
+    <string name="hemail">Enter your email</string>
+    <string name="CreateAcc">Create an \nAccount</string>
+
+    <string name="greeting">Hi Kulitha, get the best furniture for your home</string>
+    <string name="search_hint">Search furniture</string>
+    <string name="hot_deals_title">HOT DEALS</string>
+    <string name="hot_deals_discount">25% DISCOUNT</string>
+    <string name="hot_deals_subtitle">On your next 2 hrs</string>
+    <string name="shop_now">Shop Now</string>
+    <string name="categories_title">Categories</string>
+    <string name="see_all">See all</string>
+    <string name="category_armchairs">Armchairs</string>
+    <string name="category_tables">Tables</string>
+    <string name="category_beds">Beds</string>
+    <string name="category_dressers">Dressers</string>
+    <string name="product_1_name">Deluxe Armchair</string>
+    <string name="product_1_price">Rs. 65,000</string>
+    <string name="product_2_name">Lux Chair</string>
+    <string name="product_2_price">Rs. 25,000</string>
+
+
+    <string name="welcome_message">Hi Kulitha, get the best furniture\nfor your home</string>
+
+    <string name="hot_deals">Hot deals</string>
+    <string name="discount_text">25% Discount</string>
+    <string name="discount_desc">On your next 2 orders</string>
+
+    <string name="categories">Categories</string>
+
+    <string name="armchairs">Armchairs</string>
+    <string name="tables">Tables</string>
+    <string name="beds">Beds</string>
+    <string name="dressers">Dressers</string>
+
+
+    <string name="product_name">Deluxe Armchair</string>
+    <string name="product_price">Rs.75999.99</string>
+    <string name="available_colors">Available colors:</string>
+    <string name="description">Description</string>
+    <string name="product_description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum</string>
+    <string name="reviews">Reviews</string>
+    <string name="add_to_cart">Add to cart</string>
+
+    <string name="total">Total:</string>
+    <string name="checkout">Checkout</string>
+
+    <string name="success">SUCCESS!</string>
+    <string name="delivery_message">Your order will be delivered soon.\nThank you for choosing our app!</string>
+    <string name="track_orders">Track your order</string>
+    <string name="back_home">Back to Home</string>
+
+</resources>
